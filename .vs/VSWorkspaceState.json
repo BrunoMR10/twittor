@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\img",
+    "\\img\\icons",
     "\\js"
   ],
-  "SelectedNode": "\\sw.js",
+  "SelectedNode": "\\img\\icons\\icon-128x128.png",
   "PreviewInSolutionExplorer": false
 }
